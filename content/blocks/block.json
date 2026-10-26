@@ -1,6 +1,6 @@
 "MyButton": {
   "type": "block",
-  "texture": "assets/button_texture.png",
+  "texture": "assets/pack_icon.png",
   "x": 100,
   "y": 100,
   "width": 50,
