@@ -1,0 +1,8 @@
+name: "mod-name"
+displayName: "Название мода"
+author: "Ваше имя"
+description: "Краткое описание вашего мода"
+version: "1.0"
+minGameVersion: "157"
+dependencies: [ ]
+hidden: false
