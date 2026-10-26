@@ -1,0 +1,12 @@
+"MyButton": {
+  "type": "block",
+  "texture": "assets/button_texture.png",
+  "x": 100,
+  "y": 100,
+  "width": 50,
+  "height": 30,
+  "onClick": function() {
+    // Здесь задаётся действие при нажатии
+    println("Кнопка нажата!");
+  }
+}
